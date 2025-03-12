@@ -12,7 +12,7 @@ or
 python3 -m pip install --user plotly --break-system-packages
 ```
 
-Installing Plotly
+Installing Pandas
 ---
 
 ```sh
