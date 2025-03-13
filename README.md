@@ -1,4 +1,4 @@
-# Demo: Rolling Dice with Plotly
+# Demo: Plotly
 
 Installing Plotly
 ---
